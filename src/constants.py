@@ -1,0 +1,12 @@
+KON = 0.01
+KOFF = 0.005
+KE = 0.02
+KKILL = 0.001
+
+NP_CONC = 100
+
+R_NORM = 50
+R_SEN = 150
+
+T_START = 0
+T_END = 1
